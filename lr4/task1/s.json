@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vasylko",
+    "languages": ["PHP","C#","C++"]
+  },
+  {
+    "name": "Petryk",
+    "languages": ["JS","C#","C++"]
+  },
+  {
+    "name": "Olenka",
+    "languages": ["Python","Java","C++"]
+  }
+]
